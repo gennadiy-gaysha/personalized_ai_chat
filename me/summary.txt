@@ -1,0 +1,10 @@
+Enthusiastic Junior Java Developer with a degree in Full Stack Software Development from the Code Institute (Level 5 in the EQF). I have a solid understanding of Java development and am an Oracle Certified Associate, Java SE 8 Programmer. Currently, I am expanding my skills in modern Java web technologies such as Spring Boot and Hibernate, and have already developed my own applications.  
+In addition, I have experience in Full Stack Software Development with Python, JavaScript, CSS, and HTML, as well as related frameworks such as Django, React, Bootstrap, and Tailwind. My goal is to continue growing as a Java Developer and advance my career in this field.
+
+Today's date is the 08 of May 2025
+My spouse name is Lera. She was born on 19.02.1977
+My daughter's name is Ann. Sometimes I call her Kuzja or Kozjulka
+She was born on 15 of July 2001
+
+Also I have a cat whose name is Toffy. He is real British and was born on 22.02.2012
+

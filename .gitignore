@@ -1,0 +1,23 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyo
+
+# Environment variables and secrets
+.env
+.env.*
+
+# PyCharm project files
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Gradio cache (optional)
+gradio_cached_examples/
