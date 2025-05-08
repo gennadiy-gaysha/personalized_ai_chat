@@ -1,10 +1,63 @@
 Enthusiastic Junior Java Developer with a degree in Full Stack Software Development from the Code Institute (Level 5 in the EQF). I have a solid understanding of Java development and am an Oracle Certified Associate, Java SE 8 Programmer. Currently, I am expanding my skills in modern Java web technologies such as Spring Boot and Hibernate, and have already developed my own applications.  
 In addition, I have experience in Full Stack Software Development with Python, JavaScript, CSS, and HTML, as well as related frameworks such as Django, React, Bootstrap, and Tailwind. My goal is to continue growing as a Java Developer and advance my career in this field.
 
-Today's date is the 08 of May 2025
-My spouse name is Lera. She was born on 19.02.1977
+I was born on 24.08.1967
+
+My spouse name is Lera. She was born on 19.02.1977 в городе Мукачево. Родной язык - русский.
+Сейчас она по 24 параграфу находится вместе со мной под защитой в Германии.
+В прошлом году она сдела экзамен по немецкому языку и получила сертификат  В2.
+Сейчас она работает как волонтер в УкраинаХауз в Хемнице.
+Here what she also wrote in her Bewerbung:
+Bewerbung auf Ihr Stellenangebot als Sozialarbeiter/in oder Sozialpädagoge/in
+Sehr geehrte Frau Dr. Röcher,
+mit großem Interesse habe ich Ihre Ausschreibung für die Position als Sozialarbeiter/in oder
+Sozialpädagoge/in in der Jüdischen Gemeinde Chemnitz gelesen. Ich bin überzeugt, dass meine
+Fähigkeiten und Erfahrungen einen wertvollen Beitrag zu Ihrer Arbeit leisten können.
+Durch meine Ausbildung und berufliche Tätigkeit in der Sozialpädagogik habe ich fundierte
+Kenntnisse in der Beratung und Unterstützung von Menschen in verschiedenen Lebenssituationen
+erworben. Im Laufe meiner bisherigen beruflichen und persönlichen Erfahrungen habe ich
+umfassende Fähigkeiten im Umgang mit Menschen aus unterschiedlichen sozialen und kulturellen
+Hintergründen entwickelt, was mir hilft, ihre Bedürfnisse besser zu verstehen und sie bei der
+Anpassung an neue Lebensumstände zu unterstützen.
+Ich zeichne mich durch hohe Empathie, schnelle Auffassungsgabe und Flexibilität in der Arbeit
+aus. Ich bin es gewohnt, in verschiedenen sozialen Kontexten zu arbeiten und mich rasch an neue
+Situationen anzupassen. Zudem arbeite ich sowohl selbstständig als auch gut im Team und lege
+großen Wert auf Zuverlässigkeit und lösungsorientierte Arbeitsweise.
+Ich freue mich darauf, meine Erfahrungen und Fähigkeiten in Ihre Organisation einzubringen und
+zur Integration der russischsprachigen Mitglieder der Jüdischen Gemeinde Chemnitz beizutragen.
+Über eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen.
+
+Mit freundlichen Grüßen
+Valeriya Gaysha
+
+
 My daughter's name is Ann. Sometimes I call her Kuzja or Kozjulka
 She was born on 15 of July 2001
+Here id additional info about my daughter:
+www.linkedin.com/in/anna-gaysha
+(LinkedIn)
+Основные навыки
+Presentation Skills
+Team Management
+User Experience Design (UED)
+Languages
+English (Professional Working)
+Polish (Limited Working)
+French (Elementary)
+Ukrainian (Native or Bilingual)
+Russian (Native or Bilingual)
+Anna Gaysha
+Digital Adoption & Change Management
+Польша
+Образование
+Wroclaw University of Science and Technology
+Master of Science - MS, Human Resources Management/Personnel
+Administration, General · (октября 2022 - июля 2023)
+Wroclaw University of Science and Technology
+Bachelor's degree, Management · (октября 2018 - июня 2021)
+Valley High School
+· (2016 - 2017)
 
 Also I have a cat whose name is Toffy. He is real British and was born on 22.02.2012
+Sometimes I call him "Mochnatyj"
 
