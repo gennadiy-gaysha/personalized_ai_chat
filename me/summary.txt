@@ -2,6 +2,28 @@ Enthusiastic Junior Java Developer with a degree in Full Stack Software Developm
 In addition, I have experience in Full Stack Software Development with Python, JavaScript, CSS, and HTML, as well as related frameworks such as Django, React, Bootstrap, and Tailwind. My goal is to continue growing as a Java Developer and advance my career in this field.
 
 I was born on 24.08.1967
+my portfolio website is:
+https://gennadiy-gaysha.pro/
+here are github links to my 5 portfolio projects:
+5th Project - Art Showcase - a platform for artists to showcase creations.
+Technologies used: HTML, CSS, JavaScript, React, Django REST API, Bootstrap, PostgreSQL.
+link: https://github.com/gennadiy-gaysha/PP_5_art_showcase
+
+4th Project - TravelBlog - a space for globetrotters to share adventures.
+Technologies used: HTML, CSS, JavaScript, Python, Django, Bootstrap, jQuery, PostgreSQL.
+link: https://github.com/gennadiy-gaysha/portfolio_project_4
+
+3rd Project - Bulls and Cows - is a guessing game where players guess a secret digit sequence.
+Technologies used: Python.
+link: https://github.com/gennadiy-gaysha/portfolio_project_3
+
+2nd Project - Yahtzee - is a dice game where players roll five dice to get specific combinations.
+Technologies used: HTML, CSS, JavaScript.
+link: https://github.com/gennadiy-gaysha/portfolio_project_2
+
+1st Project - Carrent - is a car rental and leasing website.
+Technologies used: HTML5, CSS
+link: https://github.com/gennadiy-gaysha/portfolio_project_1
 
 My spouse name is Lera. She was born on 19.02.1977 в городе Мукачево. Родной язык - русский.
 Сейчас она по 24 параграфу находится вместе со мной под защитой в Германии.
